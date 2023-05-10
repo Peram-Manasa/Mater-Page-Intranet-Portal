@@ -1,0 +1,58 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.Containers3{
+  padding: 0;
+  margin: 1px 0px;
+  height: 265px;
+  color: black;
+  font-size: 12px;
+  display:flex;
+  flex-direction: row;
+  text-align: center;
+}
+.Containers3 div{
+  width: 100%;
+  margin: 0 2px;
+}
+
+.rowMain3{
+  box-shadow: 9px 10px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+  background-color: #F0F8FF;
+  margin: 1px;
+  border: 1px solid #F0F8FF;
+  border-radius: 20px;
+
+}
+
+.row32{
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+    color: #000;
+    overflow-y: scroll;
+    box-sizing: content-box;
+  
+  }
+
+.row31{
+  background-color: #345978;
+  position: relative;
+  z-index: 9999;
+  height: 29px;
+  top: 0px;
+  color: white;
+  }
+  table.training_table {
+    text-align: center;
+    padding: 0;
+  }
+
+ 
